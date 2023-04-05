@@ -1,0 +1,225 @@
+.container{
+  
+
+    background-color: wheat;
+}
+  #st{
+      margin-left: 42%;
+      display: flex;
+      font-size: large;
+  }
+  .c{
+      margin-bottom: -84%;
+      margin-top: -3%;
+      margin-right: 39%;
+  
+    
+    }
+    #op{
+      margin-left: 119%;
+     margin-bottom: 35%;
+    }
+    nav{
+      display: flex;
+      justify-content: space-between;
+      padding: 1px 10px;
+      margin: auto;
+      float: right;
+      /* margin-top: -2%; */
+      text-align: center;
+      margin: -1%;
+    
+    }
+    nav ul li{
+      list-style-type: none;
+      justify-content: space-between;
+      padding: 14px 16px;
+      text-align: center;
+      float: left;  
+    }
+    nav ul, li, a{
+      text-decoration: none;
+      text-align: center;
+      float: left;
+    }
+    #kil{
+      display: flex;
+      margin-left: 16%;
+      font-size: larger;
+    margin-top: -31%;
+    /* margin-left: 22%; */
+    background-color: yellow;
+    /* padding: 10px 20px; */
+  
+    }
+    #logo{
+      margin-right: 16%;
+      background-color: yellow;
+    }
+    #cat{
+      margin-left: 10%;
+      background-color: yellow;
+    }
+    #fa{
+      margin-left: 19%;
+      background-color: yellow;
+    }
+    #n{
+      margin-left: 18%;
+      background-color: yellow;
+    }
+    #mk{
+      margin-left: 20%;
+      background-color: yellow;
+    }
+    #p{
+        margin-left: 12%;
+    }
+    #ko{
+        font-weight: bolder;
+        font-size: 30px;
+    }
+    #ll{
+        margin-left: 39%;
+        margin-top: -29%;
+    }
+    #mm{
+        margin-left: 69%;
+        margin-top: -5%;
+    }
+    #ij{
+      margin-bottom: 14%;
+
+    }
+    #jm{
+      
+    }
+    #h{
+      margin-left: 45%;
+      margin-top: -28%;
+    }
+    #o{
+      margin-left: 18%;
+
+    }
+    #pu{
+      margin-left: 78%;
+      margin-top: -5%;
+    }
+    #hi{
+
+    }
+    #kim{
+      margin-left: 42%;
+      margin-top: -28%;
+    }
+    #jh{
+      margin-left: 93%;
+      margin-top: -5%;
+    }
+    .ada{
+      margin-left: 127%;
+      margin-top: -77%;
+      /* display: flex; */
+      
+    }
+    #rer{
+       margin-left: -19%;
+      margin-bottom: 18%;
+    }
+    #iut{
+      font-size: 24px;
+      font-weight: bolder;
+  
+    }
+    #syn{
+      margin-top: -10%;
+    }
+    #vv{
+      margin-top: -10%;
+    }
+    #bs{
+      margin-top: -8%;
+    }
+    #ff{
+      margin-left: 43%;
+      font-size: 30px;
+      font-weight: bolder;
+
+    }
+    #images{
+      display: flex;
+      justify-content: space-between;
+      border: none;
+
+    }
+    #pp{
+      margin-left: 6%;
+    }
+    #kk{
+      margin-left: 10%;
+      border: none;
+    }
+    #bb{
+      margin-left: 13%;
+    }
+    #ps{
+      display: flex;
+
+    }
+    #tt{
+      margin-left: 6%;
+    }
+    #dd{
+      margin-left: 45%;
+    }
+    #dp{
+      margin-left: 36%;
+    }
+    #ee{
+      margin-left: 37%;
+    }
+
+    #footer{
+      display: flex;
+      background-color: blue;
+      margin-left: 2%;
+      /* margin-bottom: 12%; */
+      width: 1250px;
+    }
+    #ewq{
+      display: flex;
+      justify-content: space-between;
+      margin-left: -92%;
+      margin-top: 19%;
+    }
+    #j{
+      margin-left: 32%;
+
+    }
+    #lw{
+      margin-left: 72%;
+    }
+    #bq{
+      margin-left: 73%;
+    }
+    #ni{
+      margin-left: 74%;
+    }
+    #ld{
+      margin-left: 6%;
+    }
+    #di{
+      margin-left: 5%;
+    }
+    #ck{
+      margin-left: 6%;
+    }
+    #tn{
+      margin-left: 4%;
+    }
+    #yy{
+      margin-left: 4%;
+      /* margin-top: -1%; */
+    }
+    
